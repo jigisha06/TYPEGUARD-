@@ -1,0 +1,18 @@
+{
+  "Krish": {
+    "username": "Krish",
+    "pw_hash": "4c433262cb63d94969058f783465620f0ad6319e52272bc17961e856794c32d8",
+    "pw_salt": "4a3d27e47b8659924d60952f20dce332",
+    "profile_params": {
+      "wpm_mean": 70.0,
+      "wpm_std": 8.4,
+      "hold_mean": 95.0,
+      "error_rate": 0.05
+    },
+    "model_path": "models\\Krish.pkl",
+    "auth_mode": "ADAPTIVE",
+    "failed_logins": 0,
+    "session_logs": [],
+    "adaptive_threshold_shift": 0.0
+  }
+}
